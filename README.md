@@ -347,6 +347,10 @@ gunicorn app:app
 - **Firebase Keys:** [Firebase Console](https://console.firebase.google.com/) se apne project ke liye keys lein.
 - API keys ko `.env` file me store karein (kabhi bhi repo me commit na karein).
 
+## Team
+- **[Salome Mwati](https://github.com/sonnie36)** – Project Lead & Web Developer  
+- **[Nimrod Nyongesa](https://github.com/nimrodnyongesa)** – Machine Learning Engineer & Backend Developer
+
 ---
 
 ## 🐞 Reporting Issues
