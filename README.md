@@ -1,6 +1,6 @@
-# 🌱 AgriTech — Smart Farming Solutions
+# 🌱 agriAI — Smart Farming Solutions
 
-![AgriTech Banner](images/plant.png)
+![agriAI Banner](images/plant.png)
 
 [![SWoC 2026](https://img.shields.io/badge/SWoC-2026-blue?style=for-the-badge)](https://swoc.tech)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -39,7 +39,7 @@
 
 ---
 
-**AgriTech** is an AI-powered smart agriculture platform designed to assist farmers with crop
+**agriAI** is an AI-powered smart agriculture platform designed to assist farmers with crop
 recommendations, yield prediction, plant disease detection, and community-driven collaboration—enabling sustainable and data-driven farming practices.
 
 ---
@@ -58,8 +58,8 @@ recommendations, yield prediction, plant disease detection, and community-driven
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/omroy07/AgriTech.git
-cd AgriTech
+git clone https://github.com/omroy07/agriAI.git
+cd agriAI
 ```
 
 ### 2️⃣ Run Backend (Primary – Flask)
@@ -107,14 +107,14 @@ Note: Backend and frontend must be running simultaneously for proper functionali
 ## 🖥️ Application Preview
 
 <img src="images/image1.png"
-       alt="AgriTech Dashboard" width="100%" />
+       alt="agriAI Dashboard" width="100%" />
 <img src="images/image.png"
-       alt="AgriTech Dashboard" width="100%" />
+       alt="agriAI Dashboard" width="100%" />
 
 <img src="images/image2.png"
-       alt="AgriTech Dashboard" width="100%" />
+       alt="agriAI Dashboard" width="100%" />
 <img src="images/image3.png"
-       alt="AgriTech Dashboard" width="100%" />
+       alt="agriAI Dashboard" width="100%" />
 
 ---
 
@@ -144,11 +144,11 @@ Note: Backend and frontend must be running simultaneously for proper functionali
 
 ## 🤖 AI Chatbot
 
-AgriTech's AI-powered chatbot provides comprehensive support for farmers:
+agriAI's AI-powered chatbot provides comprehensive support for farmers:
 
 ### Features
 
-- **Platform Guidance**: Explains how to use all AgriTech features and tools
+- **Platform Guidance**: Explains how to use all agriAI features and tools
 - **Agriculture Support**: Answers farming questions, crop recommendations, pest control
 - **Decision Making**: Provides region-specific, season-based farming advice
 - **Image Analysis**: Upload plant photos for disease detection and diagnosis
@@ -209,7 +209,7 @@ node server.js
 ## 📂 Project Structure
 
 ```text
-AGRITECH/
+agriAI/
 ├── app.py                      # 🐍 Flask Backend (Main entry point)
 ├── server.js                   # 🟢 Node.js Chatbot Server
 ├── package.json                # Node.js dependencies
@@ -271,7 +271,7 @@ FIREBASE_MEASUREMENT_ID=your_measurement_id
 
 ## 🔐 Registration Validation Rules
 
-To maintain clean user data and enforce business policies, AgriTech now applies strict
+To maintain clean user data and enforce business policies, agriAI now applies strict
 validation whenever a new account is created (frontend **and** backend):
 
 - **Full Name / Username:** only alphabetic characters and spaces are allowed. The
@@ -326,9 +326,9 @@ We love contributions! Please read our **[CONTRIBUTING.md](./CONTRIBUTING.md)** 
 
 #### Thanks to all the wonderful people contributing to this project! 💖
 
-![Contributors](https://contrib.rocks/image?repo=omroy07/AgriTech)
+![Contributors](https://contrib.rocks/image?repo=omroy07/agriAI)
 
-[View full contribution graph](https://github.com/omroy07/AgriTech/graphs/contributors)
+[View full contribution graph](https://github.com/omroy07/agriAI/graphs/contributors)
 
 ---
 
@@ -355,7 +355,7 @@ gunicorn app:app
 
 ## 🐞 Reporting Issues
 
-Found a bug or want a new feature? [Open an issue](https://github.com/omroy07/AgriTech/issues).
+Found a bug or want a new feature? [Open an issue](https://github.com/omroy07/agriAI/issues).
 
 ---
 
@@ -398,4 +398,4 @@ A: Ensure the backend server is running correctly and that the /health route is 
 
 ---
 
-**Made with ❤️ by the AgriTech Community — Nexus Spring Of Code 2026**
+**Made with ❤️ by the agriAI Community — Nexus Spring Of Code 2026**
